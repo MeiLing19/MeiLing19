@@ -3,8 +3,8 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">Satya Wacana Christian University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Student at <a href="https://uksw.edu/">Satya Wacana Christian University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Lany Tan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lanyta-setyani-gunawan-0b61bb226/)](https://www.linkedin.com/in/lanyta-setyani-gunawan-0b61bb226/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/MeiLing19?label=follow&style=social)](https://github.com/MeiLing19/MeiLing19)
+[![Linkedin: Lanyta Setyani Gunawan](https://img.shields.io/badge/-Lany Tan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lanyta-setyani-gunawan-0b61bb226/)](https://www.linkedin.com/in/lanyta-setyani-gunawan-0b61bb226/)
+[![GitHub MeiLing19](https://img.shields.io/github/followers/MeiLing19?label=follow&style=social)](https://github.com/MeiLing19/MeiLing19)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
