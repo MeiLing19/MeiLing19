@@ -1,6 +1,6 @@
 <h2> Hi, I'm Lany Tan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Data Enthusiast<a href="http://www.unb.br"></a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Student at <a href="https://uksw.edu/">Satya Wacana Christian University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Data Enthusiast<a href="http://www.unb.br"></a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Student at <a href="https://www.uksw.edu/">Satya Wacana Christian University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Lanyta Setyani Gunawan](https://img.shields.io/badge/-LanyTan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lanyta-setyani-gunawan-0b61bb226/)](https://www.linkedin.com/in/lanyta-setyani-gunawan-0b61bb226/)
