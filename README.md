@@ -1,7 +1,9 @@
 <h2> Hi, I'm Lany Tan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Data Enthusiast<a href="http://www.unb.br"></a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Student at <a href="https://www.uksw.edu/">Satya Wacana Christian University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Data Enthusiast and active publishers<a href="http://www.unb.br"></a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Student at <a href="https://www.uksw.edu/">Satya Wacana Christian University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
+</br>Here are my published journals <a href="https://www.worldscientific.com/doi/epdf/10.1142/S219688882330003X">Real-Time Facial Expression Recognition: Advances,Challenges, and Future Directions
 
 [![Linkedin: Lanyta Setyani Gunawan](https://img.shields.io/badge/-LanyTan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lanyta-setyani-gunawan-0b61bb226/)](https://www.linkedin.com/in/lanyta-setyani-gunawan-0b61bb226/)
 [![GitHub MeiLing19](https://img.shields.io/github/followers/MeiLing19?label=follow&style=social)](https://github.com/MeiLing19/MeiLing19)
@@ -9,7 +11,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 Hi there 👋 My name is Lany
-My hobby is making bread 🍞
+My hobby is making bread 🍞, reading and experiment🔎
 I like to learn new things 📖
 
 Most used languages across my projects:
